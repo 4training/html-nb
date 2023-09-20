@@ -10,35 +10,11 @@
             "pdf": "Tilgivelse_steg_for_steg.pdf"
         },
         {
-            "page": "Hearing_from_God",
-            "title": "\u00c5 h\u00f8re fra Gud",
-            "filename": "\u00c5_h\u00f8re_fra_Gud.html",
-            "version": "1.0"
-        },
-        {
             "page": "Healing",
             "title": "Helbredelse",
             "filename": "Helbredelse.html",
             "version": "1.0b",
             "pdf": "Helbredelse.pdf"
-        },
-        {
-            "page": "My_Story_with_God",
-            "title": "Min historie med Gud",
-            "filename": "Min_historie_med_Gud.html",
-            "version": "1.1"
-        },
-        {
-            "page": "Bible_Reading_Hints",
-            "title": "Tips til bibellesning",
-            "filename": "Tips_til_bibellesning.html",
-            "version": "2.0"
-        },
-        {
-            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
-            "title": "Hint til Bibellesning (Syv Historier fulle av H\u00e5p)",
-            "filename": "Hint_til_Bibellesning_(Syv_Historier_fulle_av_H\u00e5p).html",
-            "version": "1.0"
         }
     ]
 }
